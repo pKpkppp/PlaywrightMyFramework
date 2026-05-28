@@ -1,0 +1,101 @@
+- generic [ref=e22]:
+  - complementary [ref=e23]:
+    - generic [ref=e24]:
+      - generic [ref=e25]: SG
+      - generic [ref=e26]:
+        - heading "StudyGlobe" [level=2] [ref=e27]
+        - paragraph [ref=e28]: Management Portal
+    - navigation [ref=e29]:
+      - generic [ref=e30]: SG-Client
+      - generic [ref=e31] [cursor=pointer]:
+        - generic [ref=e32]: □
+        - generic [ref=e33]: Dashboard
+      - generic [ref=e34] [cursor=pointer]:
+        - generic [ref=e35]: 👥
+        - generic [ref=e36]: Clients
+      - generic [ref=e37] [cursor=pointer]:
+        - generic [ref=e38]: ➕
+        - generic [ref=e39]: Add Client
+      - generic [ref=e40] [cursor=pointer]:
+        - generic [ref=e41]: 📊
+        - generic [ref=e42]: Reports
+      - generic [ref=e43]: SG-Partner
+      - generic [ref=e44] [cursor=pointer]:
+        - generic [ref=e45]: □
+        - generic [ref=e46]: Dashboard
+      - generic [ref=e47] [cursor=pointer]:
+        - generic [ref=e48]: 👥
+        - generic [ref=e49]: Clients
+      - generic [ref=e50] [cursor=pointer]:
+        - generic [ref=e51]: ➕
+        - generic [ref=e52]: Add Client
+      - generic [ref=e53] [cursor=pointer]:
+        - generic [ref=e54]: 📊
+        - generic [ref=e55]: Reports
+      - generic [ref=e56]: Reports
+      - generic [ref=e57] [cursor=pointer]:
+        - generic [ref=e58]: 📊
+        - generic [ref=e59]: All Reports
+      - generic [ref=e60]: Agents
+      - generic [ref=e61] [cursor=pointer]:
+        - generic [ref=e62]: 🌐
+        - generic [ref=e63]: Agents
+      - generic [ref=e64] [cursor=pointer]:
+        - generic [ref=e65]: ➕
+        - generic [ref=e66]: Add Agent
+      - generic [ref=e67]: Employees
+      - generic [ref=e68] [cursor=pointer]:
+        - generic [ref=e69]: 👥
+        - generic [ref=e70]: Employees
+      - generic [ref=e71] [cursor=pointer]:
+        - generic [ref=e72]: ➕
+        - generic [ref=e73]: Add Employee
+      - generic [ref=e74]: Account
+      - generic [ref=e75] [cursor=pointer]:
+        - generic [ref=e76]: 🔒
+        - generic [ref=e77]: Change Password
+    - generic [ref=e78]:
+      - generic [ref=e79]: SJ
+      - generic [ref=e80]:
+        - generic [ref=e81]: Sarah Johnson
+        - generic [ref=e82]: manager
+      - button "⏻" [ref=e83] [cursor=pointer]
+    - generic [ref=e84]:
+      - text: © 2025 StudyGlobe. Designed by Student Grad.
+      - text: All rights reserved.
+  - generic [ref=e85]:
+    - banner [ref=e86]:
+      - generic "Notifications" [ref=e87] [cursor=pointer]:
+        - generic [ref=e88]: 🔔
+    - generic [ref=e89]:
+      - generic [ref=e90]:
+        - generic [ref=e91]:
+          - heading "SG-Client Dashboard" [level=1] [ref=e92]
+          - paragraph [ref=e93]: Overview of your sg-client clients
+        - button "+ Add SG-Client Client" [ref=e94] [cursor=pointer]
+      - generic [ref=e95]:
+        - generic [ref=e96]:
+          - generic [ref=e97]:
+            - text: Total SG-Client
+            - generic [ref=e98]: ●
+          - generic [ref=e99]: "0"
+        - generic [ref=e100]:
+          - generic [ref=e101]:
+            - text: Active
+            - generic [ref=e102]: ●
+          - generic [ref=e103]: "0"
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - text: Total Applications
+            - generic [ref=e106]: ●
+          - generic [ref=e107]: "0"
+        - generic [ref=e108]:
+          - generic [ref=e109]:
+            - text: With Applications
+            - generic [ref=e110]: ●
+          - generic [ref=e111]: "0"
+      - generic [ref=e112]:
+        - heading "SG-Client Clients (0)" [level=3] [ref=e114]
+        - generic [ref=e116]:
+          - generic [ref=e117]: 👤
+          - paragraph [ref=e118]: No sg-client clients yet

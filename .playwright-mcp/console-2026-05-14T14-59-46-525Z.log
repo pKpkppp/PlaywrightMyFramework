@@ -1,0 +1,4 @@
+[    1565ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://studyglobeuat.easysys.co.uk/:0
+[ 3552698ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://studyglobeuat.easysys.co.uk/api/notifications:0
+[ 3552924ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://studyglobeuat.easysys.co.uk/api/notifications:0
+[ 3573720ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://studyglobeuat.easysys.co.uk/api/notifications:0

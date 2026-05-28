@@ -1,0 +1,18 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - generic [ref=e5]: SG
+    - generic [ref=e6]:
+      - heading "StudyGlobe" [level=1] [ref=e7]
+      - paragraph [ref=e8]: Management Portal
+  - generic [ref=e9]:
+    - generic [ref=e10]:
+      - heading "Welcome Back" [level=3] [ref=e11]
+      - paragraph [ref=e12]: Sign in to your account to continue
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]: Username
+        - textbox "Enter your username" [ref=e17]
+      - generic [ref=e18]:
+        - generic [ref=e19]: Password
+        - textbox "Enter your password" [ref=e20]
+      - button "Sign In" [ref=e21] [cursor=pointer]
